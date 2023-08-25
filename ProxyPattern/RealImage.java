@@ -5,10 +5,6 @@
  */
 package Design_Pattern.ProxyPattern;
 
-/**
- *
- * @author TANIM
- */
 public class RealImage implements Image{
     public String filename;
     public RealImage(String filename){
