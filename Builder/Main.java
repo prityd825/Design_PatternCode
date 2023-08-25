@@ -5,10 +5,7 @@
  */
 package Design_Pattern.Builder;
 
-/**
- *
- * @author TANIM
- */
+
 public class Main {
     public static void main(String[] args) {
         Car car = new CarBuilder()
