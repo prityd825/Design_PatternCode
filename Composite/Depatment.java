@@ -5,10 +5,7 @@
  */
 package Design_Pattern.Composite;
 
-/**
- *
- * @author TANIM
- */
+
 public interface Depatment {
     void printDepartmentName();
 }
