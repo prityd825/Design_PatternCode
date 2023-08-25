@@ -5,10 +5,7 @@
  */
 package Design_Pattern.BridgePattern;
 
-/**
- *
- * @author TANIM
- */
+
 public class Bkash implements PaymentMethod{
 
     @Override
