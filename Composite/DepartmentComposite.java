@@ -8,10 +8,7 @@ package Design_Pattern.Composite;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- *
- * @author TANIM
- */
+
 public class DepartmentComposite implements Depatment{
     public String name;
     private List<Depatment> subDepartments;
