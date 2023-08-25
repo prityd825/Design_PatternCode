@@ -5,10 +5,7 @@
  */
 package Design_Pattern.AbstractFactory;
 
-/**
- *
- * @author TANIM
- */
+
 public class ElectricVehicle extends AbstractFactory{
 
     @Override
