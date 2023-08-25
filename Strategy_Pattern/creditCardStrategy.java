@@ -5,10 +5,6 @@
  */
 package Design_Pattern.Strategy_Pattern;
 
-/**
- *
- * @author TANIM
- */
 public class creditCardStrategy implements PaymentStrategy{
    private String name;
    private String cardNumber;
