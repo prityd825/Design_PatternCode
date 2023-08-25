@@ -5,10 +5,7 @@
  */
 package Design_Pattern.AbstractFactory;
 
-/**
- *
- * @author TANIM
- */
+
 public class BMW implements Vehicle{
 
     @Override
