@@ -8,10 +8,6 @@ package Design_Pattern.ProxyPattern;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- *
- * @author TANIM
- */
 public class ProxyImage implements Image{
     public String filename;
     private RealImage realimage;
