@@ -5,10 +5,6 @@
  */
 package Design_Pattern.BridgePattern;
 
-/**
- *
- * @author TANIM
- */
 public class Paypal extends PaymentProcessor{
 
     public Paypal(PaymentMethod paymentMethod) {
