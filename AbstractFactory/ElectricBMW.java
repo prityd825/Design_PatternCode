@@ -5,10 +5,7 @@
  */
 package Design_Pattern.AbstractFactory;
 
-/**
- *
- * @author TANIM
- */
+
 public class ElectricBMW implements Vehicle{
 
     @Override
