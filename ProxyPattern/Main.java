@@ -5,10 +5,6 @@
  */
 package Design_Pattern.ProxyPattern;
 
-/**
- *
- * @author TANIM
- */
 public class Main {
     public static void main(String[] args) {
         Image image1 = new ProxyImage("Cat");
