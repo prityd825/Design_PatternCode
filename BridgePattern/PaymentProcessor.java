@@ -5,10 +5,6 @@
  */
 package Design_Pattern.BridgePattern;
 
-/**
- *
- * @author TANIM
- */
 public abstract class PaymentProcessor {
     protected PaymentMethod paymentMethod;
     
