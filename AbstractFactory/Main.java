@@ -5,10 +5,7 @@
  */
 package Design_Pattern.AbstractFactory;
 
-/**
- *
- * @author TANIM
- */
+
 public class Main {
     public static void main(String[] args) {
         AbstractFactory normalvehicle = FactoryProducer.getFactory("NormalVehicle");
