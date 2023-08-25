@@ -5,10 +5,7 @@
  */
 package Design_Pattern.Builder;
 
-/**
- *
- * @author TANIM
- */
+
 public class Car {
     private String model;
     private String engine;
