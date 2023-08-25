@@ -4,11 +4,6 @@
  * and open the template in the editor.
  */
 package Design_Pattern.Composite;
-
-/**
- *
- * @author TANIM
- */
 public class Main {
     public static void main(String[] args) {
         Depatment emplyee1 = new EmployeeLeaf("Tahsin","HR");
