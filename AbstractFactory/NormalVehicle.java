@@ -5,10 +5,6 @@
  */
 package Design_Pattern.AbstractFactory;
 
-/**
- *
- * @author TANIM
- */
 public class NormalVehicle extends AbstractFactory{
 
     @Override
