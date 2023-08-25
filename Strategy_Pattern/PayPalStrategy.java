@@ -5,10 +5,7 @@
  */
 package Design_Pattern.Strategy_Pattern;
 
-/**
- *
- * @author TANIM
- */
+
 public class PayPalStrategy implements PaymentStrategy{
     
     private String emailId;
