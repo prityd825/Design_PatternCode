@@ -5,10 +5,6 @@
  */
 package Design_Pattern.Strategy_Pattern;
 
-/**
- *
- * @author TANIM
- */
 public class Main {
     public static void main(String[] args) {
         PaymentStrategy creditCard = new creditCardStrategy("ABC","1234","1","5th June");
