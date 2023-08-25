@@ -5,10 +5,6 @@
  */
 package Design_Pattern.BridgePattern;
 
-/**
- *
- * @author TANIM
- */
 public interface PaymentMethod {
     void makePayment(int amount);
     
