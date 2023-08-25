@@ -5,10 +5,6 @@
  */
 package Design_Pattern.BridgePattern;
 
-/**
- *
- * @author TANIM
- */
 public class Main {
     public static void main(String[] args) {
         PaymentMethod nagad = new Nagad();
