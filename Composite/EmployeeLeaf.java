@@ -5,10 +5,6 @@
  */
 package Design_Pattern.Composite;
 
-/**
- *
- * @author TANIM
- */
 public class EmployeeLeaf implements Depatment{
     public String name;
     public String deptName;
