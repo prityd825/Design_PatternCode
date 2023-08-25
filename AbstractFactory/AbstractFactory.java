@@ -5,10 +5,7 @@
  */
 package Design_Pattern.AbstractFactory;
 
-/**
- *
- * @author TANIM
- */
+
 public abstract class AbstractFactory {
     public abstract Vehicle getVehicle(String vehicle);
     
